@@ -1,9 +1,0 @@
-version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
-options: "0a1cba80dedc84bc1b0e0755d4ef993f"
-build_time: [1565591765, 369469000]
-inputs:
-  "/Users/chirag-3369/Downloads/FlagKit-master/components/thirdparty_packages/flagkit/v2_0/flagkit_master/Sources/Swift/FlagKit/FlagKit.swift": [1565264858, 561292399]
-  "/Users/chirag-3369/Downloads/FlagKit-master/components/thirdparty_packages/flagkit/v2_0/flagkit_master/Sources/Swift/FlagKit/Flag.swift": [1565265473, 337826843]
-  "/Users/chirag-3369/Downloads/FlagKit-master/components/thirdparty_packages/flagkit/v2_0/flagkit_master/Sources/Swift/FlagKit/FlagStyle.swift": [1565264858, 567595041]
-  "/Users/chirag-3369/Downloads/FlagKit-master/components/thirdparty_packages/flagkit/v2_0/flagkit_master/Sources/Swift/FlagKit/NSImage.swift": [1565264858, 573010398]
-  "/Users/chirag-3369/Downloads/FlagKit-master/components/thirdparty_packages/flagkit/v2_0/flagkit_master/Sources/Swift/FlagKit/UIImage.swift": [1565265222, 513900640]
